@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to rule2020 pags
 
 You can use the [editor on GitHub](https://github.com/xxxxxuyanlin/xxxxxuyanlin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
